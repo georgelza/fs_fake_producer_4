@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "4",
+ "accountEntityId": "1",
+ "accountId": "CycleLab",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "999597414.63",
+  "currency": "zar",
+  "value": "999597414.63"
+ },
+ "counterpartyEntityId": "5037",
+ "counterpartyId": "10832",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "CycleLab",
+ "direction": "Inbound",
+ "eventId": "1a15ad9d-2325-4517-9808-3b60fd6116b4",
+ "eventTime": "2023-05-23T20:17:26",
+ "eventType": "paymentRT",
+ "fromId": "Thyme Bank",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "5",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Thyme Bank",
+ "toId": "6583292543782676",
+ "transactionId": "007101e4-c6f5-4230-9c1c-02a461078b0a",
+ "transactionType": "requesto_to_pay"
+}

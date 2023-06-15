@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "4",
+ "accountEntityId": "3",
+ "accountId": "Samsung",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "842591114.88",
+  "currency": "zar",
+  "value": "842591114.88"
+ },
+ "counterpartyEntityId": "358",
+ "counterpartyId": "15688",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Samsung",
+ "direction": "Inbound",
+ "eventId": "e0264a69-7cc4-4d8b-b23e-f24ac5c26035",
+ "eventTime": "2023-05-23T20:18:11",
+ "eventType": "paymentRT",
+ "fromId": "Grindrod Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "8",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Grindrod Bank Limited",
+ "toId": "2221002918203217",
+ "transactionId": "4bc13d06-a23f-4201-98d8-733011de2a82",
+ "transactionType": "requesto_to_pay"
+}

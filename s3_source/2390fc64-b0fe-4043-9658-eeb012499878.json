@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "2",
+ "accountEntityId": "3",
+ "accountId": "iStore",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "271385662.14",
+  "currency": "zar",
+  "value": "271385662.14"
+ },
+ "counterpartyEntityId": "5687",
+ "counterpartyId": "18981",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "iStore",
+ "direction": "Outbound",
+ "eventId": "2390fc64-b0fe-4043-9658-eeb012499878",
+ "eventTime": "2023-05-23T20:18:07",
+ "eventType": "paymentRT",
+ "fromId": "Grindrod Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "6",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Grindrod Bank Limited",
+ "toId": "2221001357367640",
+ "transactionId": "57d91479-c71c-4e56-9c83-3689100bc055",
+ "transactionType": "account_push"
+}

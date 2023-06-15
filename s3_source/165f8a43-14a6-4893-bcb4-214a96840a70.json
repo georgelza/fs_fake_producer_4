@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "3",
+ "accountEntityId": "3",
+ "accountId": "Truworths",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "251979126.97",
+  "currency": "zar",
+  "value": "251979126.97"
+ },
+ "counterpartyEntityId": "1755",
+ "counterpartyId": "11878",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Truworths",
+ "direction": "Outbound",
+ "eventId": "165f8a43-14a6-4893-bcb4-214a96840a70",
+ "eventTime": "2023-05-23T20:17:21",
+ "eventType": "paymentRT",
+ "fromId": "fnb",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "6",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "fnb",
+ "toId": "4947411057448990",
+ "transactionId": "e5964233-7de4-42e2-a845-a08ab58008bc",
+ "transactionType": "requesto_to_pay"
+}

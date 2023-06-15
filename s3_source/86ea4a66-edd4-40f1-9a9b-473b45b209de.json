@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "5",
+ "accountEntityId": "4",
+ "accountId": "BuildIt",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "257347408.32",
+  "currency": "zar",
+  "value": "257347408.32"
+ },
+ "counterpartyEntityId": "8306",
+ "counterpartyId": "11521",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "BuildIt",
+ "direction": "Outbound",
+ "eventId": "86ea4a66-edd4-40f1-9a9b-473b45b209de",
+ "eventTime": "2023-05-23T20:18:17",
+ "eventType": "paymentRT",
+ "fromId": "nedbank",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "7",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "nedbank",
+ "toId": "6595124076396320",
+ "transactionId": "f0d59671-7e7a-4b6e-a4a1-0bd44c979537",
+ "transactionType": "account_push"
+}

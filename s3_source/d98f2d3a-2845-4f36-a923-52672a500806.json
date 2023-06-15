@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "5",
+ "accountEntityId": "5",
+ "accountId": "Clicks",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "618582380.38",
+  "currency": "zar",
+  "value": "618582380.38"
+ },
+ "counterpartyEntityId": "827",
+ "counterpartyId": "11001",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Clicks",
+ "direction": "Outbound",
+ "eventId": "d98f2d3a-2845-4f36-a923-52672a500806",
+ "eventTime": "2023-05-23T20:17:39",
+ "eventType": "paymentRT",
+ "fromId": "African Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "4",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "African Bank Limited",
+ "toId": "2720991507154043",
+ "transactionId": "52d07e79-6e4e-42ce-af66-400e6773562a",
+ "transactionType": "requesto_to_pay"
+}

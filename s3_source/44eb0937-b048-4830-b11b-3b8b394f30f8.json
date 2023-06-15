@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "2",
+ "accountEntityId": "2",
+ "accountId": "Builders",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "97711461.99",
+  "currency": "zar",
+  "value": "97711461.99"
+ },
+ "counterpartyEntityId": "8969",
+ "counterpartyId": "17167",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Builders",
+ "direction": "Inbound",
+ "eventId": "44eb0937-b048-4830-b11b-3b8b394f30f8",
+ "eventTime": "2023-05-23T20:18:46",
+ "eventType": "paymentRT",
+ "fromId": "Thyme Bank",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "12",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Thyme Bank",
+ "toId": "2720992694605811",
+ "transactionId": "cfaca74c-01cc-4b60-b81e-f48150e20e79",
+ "transactionType": "account_push"
+}

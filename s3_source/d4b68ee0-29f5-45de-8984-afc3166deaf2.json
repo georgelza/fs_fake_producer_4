@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "0",
+ "accountEntityId": "4",
+ "accountId": "iStore",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "950684733.24",
+  "currency": "zar",
+  "value": "950684733.24"
+ },
+ "counterpartyEntityId": "9397",
+ "counterpartyId": "12750",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "iStore",
+ "direction": "Outbound",
+ "eventId": "d4b68ee0-29f5-45de-8984-afc3166deaf2",
+ "eventTime": "2023-05-23T20:17:50",
+ "eventType": "paymentRT",
+ "fromId": "fnb",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "9",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "fnb",
+ "toId": "4450182913240147",
+ "transactionId": "bba5d118-bd3c-41c0-b5ee-a0aed5b9a5e7",
+ "transactionType": "account_push"
+}

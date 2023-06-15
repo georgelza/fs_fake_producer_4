@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "1",
+ "accountEntityId": "2",
+ "accountId": "Billabong",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "114531356.43",
+  "currency": "zar",
+  "value": "114531356.43"
+ },
+ "counterpartyEntityId": "9311",
+ "counterpartyId": "14683",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Billabong",
+ "direction": "Outbound",
+ "eventId": "5178d1bd-3986-4d3a-89f1-d5c774517cc7",
+ "eventTime": "2023-05-23T20:18:02",
+ "eventType": "paymentRT",
+ "fromId": "Capitect Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "7",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Capitect Bank Limited",
+ "toId": "4607334752221328",
+ "transactionId": "c360b2df-150f-49a5-a2a8-97824d8d0c80",
+ "transactionType": "proxy_push"
+}

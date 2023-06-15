@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "2",
+ "accountEntityId": "5",
+ "accountId": "Shoprite Holdings",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "434570149.47",
+  "currency": "zar",
+  "value": "434570149.47"
+ },
+ "counterpartyEntityId": "6867",
+ "counterpartyId": "11131",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Shoprite Holdings",
+ "direction": "Inbound",
+ "eventId": "31f8c908-e72b-4334-9fbd-6d4acc550fc8",
+ "eventTime": "2023-05-23T20:18:09",
+ "eventType": "paymentRT",
+ "fromId": "Grindrod Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "5",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Grindrod Bank Limited",
+ "toId": "2221000089733697",
+ "transactionId": "361fc75f-0a37-43dd-a01d-f0f524d8bbf1",
+ "transactionType": "requesto_to_pay"
+}

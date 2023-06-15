@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "0",
+ "accountEntityId": "3",
+ "accountId": "Clicks",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "568657834.95",
+  "currency": "zar",
+  "value": "568657834.95"
+ },
+ "counterpartyEntityId": "1136",
+ "counterpartyId": "14116",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Clicks",
+ "direction": "Outbound",
+ "eventId": "d0339ad3-0c8b-44aa-9329-b382cab9ce56",
+ "eventTime": "2023-05-23T20:17:47",
+ "eventType": "paymentRT",
+ "fromId": "Ubank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "5",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Ubank Limited",
+ "toId": "2720990490665786",
+ "transactionId": "91a014cf-8c6b-4160-b3ad-b494ef6466be",
+ "transactionType": "requesto_to_pay"
+}

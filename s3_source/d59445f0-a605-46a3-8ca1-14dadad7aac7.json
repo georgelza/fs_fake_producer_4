@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "4",
+ "accountEntityId": "0",
+ "accountId": "Samsung",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "625446248.87",
+  "currency": "zar",
+  "value": "625446248.87"
+ },
+ "counterpartyEntityId": "5730",
+ "counterpartyId": "14886",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Samsung",
+ "direction": "Outbound",
+ "eventId": "d59445f0-a605-46a3-8ca1-14dadad7aac7",
+ "eventTime": "2023-05-23T20:17:17",
+ "eventType": "paymentRT",
+ "fromId": "Investec Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "12",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Investec Bank Limited",
+ "toId": "2720994144682677",
+ "transactionId": "051b6696-367b-4f0b-bc9f-923fa3b2f5f8",
+ "transactionType": "requesto_to_pay"
+}

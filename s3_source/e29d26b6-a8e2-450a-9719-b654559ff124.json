@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "3",
+ "accountEntityId": "4",
+ "accountId": "Quicksilver",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "111365898.39",
+  "currency": "zar",
+  "value": "111365898.39"
+ },
+ "counterpartyEntityId": "56",
+ "counterpartyId": "19754",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Quicksilver",
+ "direction": "Outbound",
+ "eventId": "e29d26b6-a8e2-450a-9719-b654559ff124",
+ "eventTime": "2023-05-23T20:18:47",
+ "eventType": "paymentRT",
+ "fromId": "African Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "8",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "African Bank Limited",
+ "toId": "6570304412745195",
+ "transactionId": "54351314-fde6-4c23-9968-dde09c08a98b",
+ "transactionType": "requesto_to_pay"
+}

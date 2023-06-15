@@ -1,0 +1,247 @@
+{
+    "Direction": [
+        "inbound", 
+        "outbound"
+    ],
+
+    "Decoration": [
+        "decorationId_0"
+    ],
+    
+    "TransactionTypesRt": [
+        "transactionType_1",
+        "PayByAccount", 
+        "PayByProxy", 
+        "RequestToPay"
+    ],
+    
+    "TransactionTypesNrt": [
+        "transactionType_1",
+        "EFT", 
+        "RTC", 
+        "ACCollection"
+    ],
+
+    "ChargeBearers": [
+        "DEBT",
+        "CRED",
+        "SHAR",
+        "SLEV"
+    ],
+
+    "RemittanceLocationMethod": [
+        "FAXI",
+        "EDIC",
+        "URID",
+        "EMAL",
+        "POST",
+        "SMSM"
+    ],
+    
+    "SettlementMethod": [
+        "INDA",
+        "INGA",
+        "COVE",
+        "CLRG"
+    ],
+
+    "VerificationResult": [
+        "FAIL",
+        "FUTA",
+        "MISS",
+        "NOVF",
+        "OTHN",
+        "OTHP",
+        "PART",
+        "SUCC",
+        "ERRR"
+    ],
+
+    "PaymentFrequency": [
+        "YEAR",
+        "MNTH",
+        "QURT",
+        "MIAN",
+        "WEEK",
+        "DAIL",
+        "ADHO",
+        "INDA",
+        "FRTN"
+    ],
+
+    "Tenants": [            
+        {"Name": "ABSA Bank", "TenantId": "absa"},
+        {"Name": "ABSA_15", "TenantId": "15"},
+        {"Name": "ABSA_16", "TenantId": "16"},
+        {"Name": "FNB", "TenantId": "fnb"},
+        {"Name": "Standard Bank", "TenantId": "standard"},
+        {"Name": "Nedbank", "TenantId": "nedbank"},
+        {"Name": "Capitect Bank Limited", "TenantId": "capitec"},
+        {"Name": "Bank Zero", "TenantId": "capitec"},
+        {"Name": "Thyme Bank", "TenantId": "fnb"},
+        {"Name": "Discovery Bank Limited", "TenantId": "absa"},
+        {"Name": "African Bank Limited", "TenantId": "standard"},
+        {"Name": "Bidvest Bank Limited", "TenantId": "absa"},
+        {"Name": "Grindrod Bank Limited", "TenantId": "absa"},
+        {"Name": "Investec Bank Limited", "TenantId": "capitec"},
+        {"Name": "Ithala", "TenantId": "standard"},
+        {"Name": "Sasfin Bank Limited", "TenantId": "absa"},
+        {"Name": "Ubank Limited", "TenantId": "nedbank"},
+        {"Name": "FirstRand", "TenantId": "15"},
+        {"Name": "Imperial Bank South Africa", "TenantId": "15"},
+        {"Name": "Mercantile Bank Limited", "TenantId": "16"},
+        {"Name": "GBS Mutual Bank", "TenantId": "nedbank"},
+        {"Name": "VBS Mutual Bank", "TenantId": "standard"},
+        {"Name": "Finbond Mutual Bank", "TenantId": "16"},
+        {"Name": "Development Bank of Southern Africa", "TenantId": "fnb"},
+        {"Name": "Land and Agricultural Development Bank of South Africa", "TenantId": "15"},
+        {"Name": "Postbank", "TenantId": "absa"},
+        {"Name": "Grobank", "TenantId": "capitec"},
+        {"Name": "CitiBank", "TenantId": "fnb"},
+        {"Name": "Teba Bank Limited", "TenantId": "nedbank"}
+    ],
+
+    "GoodEntities": [         
+        {"Id":"1", "Name": "PicknPay", "EntityId": "1", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"2", "Name": "CnA", "EntityId": "2", "TenantId": "15", "AccountNumber": "1239656234"},
+        {"Id":"3", "Name": "Pick n Pay", "EntityId": "3", "TenantId": "16", "AccountNumber": "1239656234"},
+        {"Id":"4", "Name": "Spar", "EntityId": "4", "TenantId": "standard", "AccountNumber": "1239656234"},
+        {"Id":"5", "Name": "Checkers", "EntityId": "5", "TenantId": "capitec", "AccountNumber": "1239656234"},
+        {"Id":"6", "Name": "Starbucks", "EntityId": "6", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"7", "Name": "Shoprite Holdings", "EntityId": "7", "TenantId": "standard", "AccountNumber": "1239656234"},
+        {"Id":"8", "Name": "Billabong", "EntityId": "8", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"9", "Name": "Quicksilver", "EntityId": "9", "TenantId": "standard", "AccountNumber": "1239656234"},
+        {"Id":"10", "Name": "Nike", "EntityId": "10", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"11", "Name": "iStore", "EntityId": "11", "TenantId": "15", "AccountNumber": "1239656234"},
+        {"Id":"12", "Name": "Incredible Connection", "EntityId": "12", "TenantId": "16", "AccountNumber": "1239656234"},
+        {"Id":"13", "Name": "Samsung", "EntityId": "13", "TenantId": "16", "AccountNumber": "1239656234"},
+        {"Id":"14", "Name": "Sportsmans Warehouse", "EntityId": "14", "TenantId": "15", "AccountNumber": "1239656234"},
+        {"Id":"15", "Name": "@Home", "EntityId": "15", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"16", "Name": "MrPriceHome", "EntityId": "16", "TenantId": "capitec", "AccountNumber": "1239656234"},
+        {"Id":"17", "Name": "Builders", "EntityId": "17", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"18", "Name": "BUCO", "EntityId": "18", "TenantId": "standard", "AccountNumber": "1239656234"},
+        {"Id":"19", "Name": "ACDC", "EntityId": "19", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"20", "Name": "BuildIt", "EntityId": "20", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"21", "Name": "Discem", "EntityId": "21", "TenantId": "15", "AccountNumber": "1239656234"},
+        {"Id":"22", "Name": "Clicks", "EntityId": "22", "TenantId": "16", "AccountNumber": "1239656234"},
+        {"Id":"23", "Name": "Edgars", "EntityId": "23", "TenantId": "capitec", "AccountNumber": "1239656234"},
+        {"Id":"24", "Name": "Truworths", "EntityId": "24", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"25", "Name": "Markhams", "EntityId": "25", "TenantId": "standard", "AccountNumber": "1239656234"},
+        {"Id":"26", "Name": "MrPrice", "EntityId": "26", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"27", "Name": "Ackermans", "EntityId": "27", "TenantId": "nedbank", "AccountNumber": "1239656234"},
+        {"Id":"28", "Name": "CycleLab", "EntityId": "28", "TenantId": "capitec", "AccountNumber": "1239656234"},
+        {"Id":"29", "Name": "World of Golf", "EntityId": "29", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"30", "Name": "PnA", "EntityId": "30", "TenantId": "nedbank", "AccountNumber": "1239656234"},
+        {"Id":"31", "Name": "CNA", "EntityId": "31", "TenantId": "standard", "AccountNumber": "1239656234"},
+        {"Id":"32", "Name": "Exclusive Books", "EntityId": "32", "TenantId": "15", "AccountNumber": "1239656234"},
+        {"Id":"33", "Name": "SASOL", "EntityId": "33", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"34", "Name": "Engen", "EntityId": "34", "TenantId": "16", "AccountNumber": "1239656234"},
+        {"Id":"35", "Name": "Total", "EntityId": "35", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"36", "Name": "BP", "EntityId": "36", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"37", "Name": "MTN", "EntityId": "37", "TenantId": "capitec", "AccountNumber": "1239656234"},
+        {"Id":"38", "Name": "Telkom", "EntityId": "38", "TenantId": "standard", "AccountNumber": "1239656234"},
+        {"Id":"39", "Name": "Vodacom", "EntityId": "39", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"40", "Name": "Cell C", "EntityId": "40", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"41", "Name": "Afrihost", "EntityId": "41", "TenantId": "nedbank", "AccountNumber": "1239656234"},
+        {"Id":"42", "Name": "WebAfrica", "EntityId": "42", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"43", "Name": "Websquad", "EntityId": "43", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"44", "Name": "Cool Ideas", "EntityId": "44", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"45", "Name": "Frog foot", "EntityId": "45", "TenantId": "standard", "AccountNumber": "1239656234"},
+        {"Id":"46", "Name": "MWeb", "EntityId": "46", "TenantId": "15", "AccountNumber": "1239656234"},
+        {"Id":"47", "Name": "Neotel", "EntityId": "47", "TenantId": "270020", "AccountNumber": "1239656234"},
+        {"Id":"48", "Name": "Liquid Telecom", "EntityId": "48", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"49", "Name": "Netcare", "EntityId": "49", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"50", "Name": "Cape Union Mart", "EntityId": "50", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"51", "Name": "M-Net", "EntityId": "51", "TenantId": "standard", "AccountNumber": "1239656234"},
+        {"Id":"52", "Name": "SABC", "EntityId": "52", "TenantId": "15", "AccountNumber": "1239656234"},
+        {"Id":"53", "Name": "Netflix", "EntityId": "53", "TenantId": "16", "AccountNumber": "1239656234"},
+        {"Id":"54", "Name": "SAA", "EntityId": "54", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"55", "Name": "Airlink", "EntityId": "55", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"56", "Name": "CemAir", "EntityId": "56", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"57", "Name": "FlySafAir", "EntityId": "57", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"58", "Name": "Lift Air", "EntityId": "58", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"59", "Name": "Woolworths", "EntityId": "59", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"60", "Name": "Food Lover's Market", "EntityId": "60", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"61", "Name": "Burger King", "EntityId": "61", "TenantId": "standard", "AccountNumber": "1239656234"},
+        {"Id":"62", "Name": "Chicken Licken", "EntityId": "62", "TenantId": "15", "AccountNumber": "1239656234"},
+        {"Id":"63", "Name": "Dominos pizza", "EntityId": "63", "TenantId": "16", "AccountNumber": "1239656234"},
+        {"Id":"64", "Name": "Debonairs Pizza", "EntityId": "64", "TenantId": "standard", "AccountNumber": "1239656234"},
+        {"Id":"65", "Name": "John Dory's", "EntityId": "65", "TenantId": "capitec", "AccountNumber": "1239656234"},
+        {"Id":"66", "Name": "Wimpy", "EntityId": "66", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"67", "Name": "Krispy Kreme", "EntityId": "67", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"68", "Name": "Kauai", "EntityId": "68", "TenantId": "capitec", "AccountNumber": "1239656234"},
+        {"Id":"69", "Name": "Mugg & Bean", "EntityId": "69", "TenantId": "capitec", "AccountNumber": "1239656234"},
+        {"Id":"70", "Name": "Mozambik", "EntityId": "70", "TenantId": "standard", "AccountNumber": "1239656234"},
+        {"Id":"71", "Name": "Mochachos", "EntityId": "71", "TenantId": "nedbank", "AccountNumber": "1239656234"},
+        {"Id":"72", "Name": "Nando's", "EntityId": "72", "TenantId": "270020", "AccountNumber": "1239656234"},
+        {"Id":"73", "Name": "News Cafe", "EntityId": "73", "TenantId": "16", "AccountNumber": "1239656234"},
+        {"Id":"74", "Name": "Panarottis", "EntityId": "74", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"75", "Name": "Pizza Hut", "EntityId": "75", "TenantId": "15", "AccountNumber": "1239656234"},
+        {"Id":"76", "Name": "Popeyes", "EntityId": "76", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"77", "Name": "Papachinos", "EntityId": "77", "TenantId": "standard", "AccountNumber": "1239656234"},
+        {"Id":"78", "Name": "Roman's Pizza", "EntityId": "78", "TenantId": "15", "AccountNumber": "1239656234"},
+        {"Id":"79", "Name": "Roco Mamas", "EntityId": "79", "TenantId": "16", "AccountNumber": "1239656234"},
+        {"Id":"80", "Name": "Steers", "EntityId": "80", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"81", "Name": "Subway", "EntityId": "81", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"82", "Name": "Vida e Caffè", "EntityId": "82", "TenantId": "standard", "AccountNumber": "1239656234"},
+        {"Id":"83", "Name": "Spur", "EntityId": "83", "TenantId": "15", "AccountNumber": "1239656234"},
+        {"Id":"84", "Name": "McDonals", "EntityId": "84", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"85", "Name": "Kentucky Fried Chicken", "EntityId": "85", "TenantId": "capitec", "AccountNumber": "1239656234"},
+        {"Id":"86", "Name": "Something Fishy", "EntityId": "86", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"87", "Name": "DunkingDonuts", "EntityId": "87", "TenantId": "capitec", "AccountNumber": "1239656234"},
+        {"Id":"88", "Name": "Milky Lane", "EntityId": "88", "TenantId": "standard", "AccountNumber": "1239656234"},
+        {"Id":"89", "Name": "Meat company", "EntityId": "89", "TenantId": "absa", "AccountNumber": "1239656234"}
+    ],
+
+    "BadEntities": [          
+        {"Id":"201", "Name":"Alibaba", "EntityId": "201", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"202", "Name":"Solar Guru", "EntityId": "202", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"203", "Name":"Geni Solutions", "EntityId": "203", "TenantId": "standard", "AccountNumber": "1239656234"},
+        {"Id":"204", "Name":"Shoes for All", "EntityId": "204", "TenantId": "absa", "AccountNumber": "1239656234"},
+        {"Id":"205", "Name":"Off Grid Solutions", "EntityId": "205", "TenantId": "standard", "AccountNumber": "1239656234"},
+        {"Id":"206", "Name":"Cell Phone Central", "EntityId": "206", "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"207", "Name":"IT Answers", "EntityId": "207", "TenantId": "fnb", "AccountNumber": "1239656234"}
+    ],
+
+    "GoodPayers":[
+        {"Id":"101", "Name": {"namePrefix":"Mr", "fullName": "George", "surname": "Simpson"}, "TenantId": "fnb", "AccountNumber": "1239656234"},
+        {"Id":"201", "Name": {"namePrefix":"Mr", "fullName": "Mark", "surname": "Botha"}, "TenantId": "absa", "AccountNumber": "6323456457"},
+        {"Id":"301", "Name": {"namePrefix":"Mr", "fullName": "George", "surname": "Simpson"}, "TenantId": "fnb", "AccountNumber": "23434545345"},
+        {"Id":"302", "Name": {"namePrefix":"Mr", "fullName": "Mark", "surname": "Botha"}, "TenantId": "standard", "AccountNumber": "23434545345"},
+        {"Id":"303", "Name": {"namePrefix":"Mr", "fullName": "Gert", "surname": "Van Der Merwe"}, "TenantId": "15", "AccountNumber": "23434545345"},
+        {"Id":"401", "Name": {"namePrefix":"Mr", "fullName": "Ciljee", "surname": "Klopper"}, "TenantId": "standard", "AccountNumber": "23434545345"},
+        {"Id":"411", "Name": {"namePrefix":"Mrs", "fullName": "Mari", "surname": "Engelbrecght"}, "TenantId": "fnb", "AccountNumber": "23434545345"},
+        {"Id":"502", "Name": {"namePrefix":"Mr", "fullName": "Manny", "surname": "Groenewaldt"}, "TenantId": "absa", "AccountNumber": "23434545345"},
+        {"Id":"521", "Name": {"namePrefix":"Mr", "fullName": "Mark", "surname": "Geldenhuys"}, "TenantId": "16", "AccountNumber": "23434545345"},
+        {"Id":"522", "Name": {"namePrefix":"Mr", "fullName": "Neil", "surname": "Smith"}, "TenantId": "fnb", "AccountNumber": "23434545345"}  
+    ],
+
+    "BadPayers":[
+        {"Id":"9010", "Name": {"NamePrefix":"Mr", "FullName": "Mark", "Surname": "Lourens"}, "TenantId": "fnb", "AccountNumber": "23434545345"},
+        {"Id":"9011", "Name": {"NamePrefix":"Mr", "FullName": "Neil", "Surname": "Botha"}, "TenantId": "absa", "AccountNumber": "23434545345"}
+    ],
+
+
+    "GoodAgent": [
+        {"Id": "50221", "Name": "Agent1", "AccountId":"102", "Address":{"addressLine1":"Pretorius Ave", "townName":"Pretoria", "countrySubDivision":"Gauteng", "postalCode":"2000", "Country":"ZAF"}},
+        {"Id": "50212", "Name": "Agent2", "AccountId":"301", "Address":{"addressLine1":"Church Ave", "townName":"Pretoria", "countrySubDivision":"Gauteng", "postalCode":"1200", "Country":"ZAF"}},
+        {"Id": "50723", "Name": "Agent3", "AccountId":"3029", "Address":{"addressLine1":"Long Street", "townName":"Cape Town", "countrySubDivision":"Western Cape", "postalCode":"1100", "Country":"ZAF"}},
+        {"Id": "50874", "Name": "Agent4", "AccountId":"9204", "Address":{"addressLine1":"Da Gama Street", "townName":"JeffreysBay", "countrySubDivision":"Eastern Cape", "postalCode":"1663", "Country":"ZAF"}},
+        {"Id": "50881", "Name": "Agent5", "AccountId":"9204", "Address":{"addressLine1":"Potter Street", "townName":"JeffreysBay", "countrySubDivision":"Eastern Cape", "postalCode":"1663", "Country":"ZAF"}},
+        {"Id": "50882", "Name": "Agent6", "AccountId":"9204", "Address":{"addressLine1":"Black Street", "townName":"JeffreysBay", "countrySubDivision":"Eastern Cape", "postalCode":"1663", "Country":"ZAF"}},
+        {"Id": "50883", "Name": "Agent7", "AccountId":"9204", "Address":{"addressLine1":"Kruis Street", "townName":"JeffreysBay", "countrySubDivision":"Eastern Cape", "postalCode":"1663", "Country":"ZAF"}},
+        {"Id": "50884", "Name": "Agent8", "AccountId":"9204", "Address":{"addressLine1":"Melk Street", "townName":"JeffreysBay", "countrySubDivision":"Eastern Cape", "postalCode":"1663", "Country":"ZAF"}}
+    ],
+
+    "BadAgent": [
+        {"Id": "50985", "Name": "Agent5", "AccountId":"1994", "Address":{"addressLine1":"Nautilus", "townName":"Port Elizabetg", "countrySubDivision":"Eastern Cape", "postalCode":"1600", "Country":"ZAF"}},
+        {"Id": "50816", "Name": "Agent6", "AccountId":"4775", "Address":{"addressLine1":"Jan Smuts Road", "townName":"Johannesburg", "countrySubDivision":"Gauteng", "postalCode":"1000", "Country":"ZAF"}}
+    ],
+
+    "Risk": [
+        "Yes",
+        "No",
+        "review"
+    ]
+
+}

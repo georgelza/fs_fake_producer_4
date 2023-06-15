@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "4",
+ "accountEntityId": "5",
+ "accountId": "World of Golf",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "920255473.41",
+  "currency": "zar",
+  "value": "920255473.41"
+ },
+ "counterpartyEntityId": "3296",
+ "counterpartyId": "16016",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "World of Golf",
+ "direction": "Outbound",
+ "eventId": "62a8c361-07b3-41d7-8461-d96053fc8339",
+ "eventTime": "2023-05-23T20:17:54",
+ "eventType": "paymentRT",
+ "fromId": "Grindrod Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "1",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Grindrod Bank Limited",
+ "toId": "2720992537856098",
+ "transactionId": "114560bd-ef44-4134-9188-bae584d44f49",
+ "transactionType": "requesto_to_pay"
+}

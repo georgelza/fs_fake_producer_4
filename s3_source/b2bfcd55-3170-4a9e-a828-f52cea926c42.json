@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "0",
+ "accountEntityId": "1",
+ "accountId": "iStore",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "625011663.54",
+  "currency": "zar",
+  "value": "625011663.54"
+ },
+ "counterpartyEntityId": "2702",
+ "counterpartyId": "14714",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "iStore",
+ "direction": "Outbound",
+ "eventId": "b2bfcd55-3170-4a9e-a828-f52cea926c42",
+ "eventTime": "2023-05-23T20:18:33",
+ "eventType": "paymentRT",
+ "fromId": "African Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "12",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "African Bank Limited",
+ "toId": "377505016356765",
+ "transactionId": "99db6a75-813d-483f-a822-84747a247a02",
+ "transactionType": "account_push"
+}

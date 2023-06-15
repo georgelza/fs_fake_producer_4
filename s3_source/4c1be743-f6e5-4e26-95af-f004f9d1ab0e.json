@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "3",
+ "accountEntityId": "5",
+ "accountId": "Ackermans",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "173316154.16",
+  "currency": "zar",
+  "value": "173316154.16"
+ },
+ "counterpartyEntityId": "943",
+ "counterpartyId": "13094",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Ackermans",
+ "direction": "Inbound",
+ "eventId": "4c1be743-f6e5-4e26-95af-f004f9d1ab0e",
+ "eventTime": "2023-05-23T20:18:31",
+ "eventType": "paymentRT",
+ "fromId": "absa",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "7",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "absa",
+ "toId": "375572626903188",
+ "transactionId": "09442f07-6645-42ed-875b-866197c2ba10",
+ "transactionType": "requesto_to_pay"
+}

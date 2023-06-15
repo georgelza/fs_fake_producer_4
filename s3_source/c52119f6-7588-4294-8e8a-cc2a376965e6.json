@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "3",
+ "accountEntityId": "0",
+ "accountId": "CycleLab",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "75070327.27",
+  "currency": "zar",
+  "value": "75070327.27"
+ },
+ "counterpartyEntityId": "8899",
+ "counterpartyId": "10573",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "CycleLab",
+ "direction": "Inbound",
+ "eventId": "c52119f6-7588-4294-8e8a-cc2a376965e6",
+ "eventTime": "2023-05-23T20:17:43",
+ "eventType": "paymentRT",
+ "fromId": "Sasfin Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "5",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Sasfin Bank Limited",
+ "toId": "2221007122721517",
+ "transactionId": "b9a827ac-ff88-41f7-b721-b761b74ef855",
+ "transactionType": "account_push"
+}

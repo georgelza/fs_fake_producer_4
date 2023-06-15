@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "3",
+ "accountEntityId": "0",
+ "accountId": "Clicks",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "828860153.38",
+  "currency": "zar",
+  "value": "828860153.38"
+ },
+ "counterpartyEntityId": "739",
+ "counterpartyId": "15735",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Clicks",
+ "direction": "Outbound",
+ "eventId": "d6d4fcee-846e-4f40-b926-a3ff67f864c9",
+ "eventTime": "2023-05-23T20:18:30",
+ "eventType": "paymentRT",
+ "fromId": "Discovery Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "5",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Discovery Bank Limited",
+ "toId": "2720990957441753",
+ "transactionId": "889c2e12-ef43-4331-bc2b-e0f5755d0db4",
+ "transactionType": "proxy_push"
+}

@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "1",
+ "accountEntityId": "0",
+ "accountId": "World of Golf",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "698014566.96",
+  "currency": "zar",
+  "value": "698014566.96"
+ },
+ "counterpartyEntityId": "6044",
+ "counterpartyId": "18413",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "World of Golf",
+ "direction": "Outbound",
+ "eventId": "9ee56c6f-d74d-47c7-8289-d504da415d79",
+ "eventTime": "2023-05-23T20:18:33",
+ "eventType": "paymentRT",
+ "fromId": "Investec Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "10",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Investec Bank Limited",
+ "toId": "6514439634015770",
+ "transactionId": "250b57d9-8295-4785-8b35-a6824744e74b",
+ "transactionType": "requesto_to_pay"
+}

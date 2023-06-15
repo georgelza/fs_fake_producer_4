@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "2",
+ "accountEntityId": "4",
+ "accountId": "iStore",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "364510584.90",
+  "currency": "zar",
+  "value": "364510584.90"
+ },
+ "counterpartyEntityId": "1385",
+ "counterpartyId": "16674",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "iStore",
+ "direction": "Inbound",
+ "eventId": "555a8180-6fb7-4eb1-9b37-d390fc73517c",
+ "eventTime": "2023-05-23T20:17:11",
+ "eventType": "paymentRT",
+ "fromId": "Ithala",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "1",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Ithala",
+ "toId": "2221003409600974",
+ "transactionId": "4832b880-01e2-49a0-87f5-f335c99057b4",
+ "transactionType": "proxy_push"
+}

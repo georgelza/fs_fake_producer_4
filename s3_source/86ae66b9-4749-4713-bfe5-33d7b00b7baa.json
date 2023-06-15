@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "1",
+ "accountEntityId": "0",
+ "accountId": "Pick n Pay",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "546100750.51",
+  "currency": "zar",
+  "value": "546100750.51"
+ },
+ "counterpartyEntityId": "1101",
+ "counterpartyId": "11695",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Pick n Pay",
+ "direction": "Outbound",
+ "eventId": "86ae66b9-4749-4713-bfe5-33d7b00b7baa",
+ "eventTime": "2023-05-23T20:17:06",
+ "eventType": "paymentRT",
+ "fromId": "Bank Zero",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "3",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Bank Zero",
+ "toId": "2221005276620605",
+ "transactionId": "9af9311e-27c2-45f2-a6eb-c06eb4f2a94b",
+ "transactionType": "account_push"
+}

@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "4",
+ "accountEntityId": "2",
+ "accountId": "World of Golf",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "97664770.21",
+  "currency": "zar",
+  "value": "97664770.21"
+ },
+ "counterpartyEntityId": "8215",
+ "counterpartyId": "11867",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "World of Golf",
+ "direction": "Inbound",
+ "eventId": "46ba1ab8-f821-471c-b8a8-3119e3009dda",
+ "eventTime": "2023-05-23T20:18:25",
+ "eventType": "paymentRT",
+ "fromId": "fnb",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "7",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "fnb",
+ "toId": "4186534832715608",
+ "transactionId": "47a451a6-e561-4449-a30f-a73dfc13c52e",
+ "transactionType": "account_push"
+}

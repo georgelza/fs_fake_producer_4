@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "1",
+ "accountEntityId": "4",
+ "accountId": "Incredible Connection",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "886211438.41",
+  "currency": "zar",
+  "value": "886211438.41"
+ },
+ "counterpartyEntityId": "2527",
+ "counterpartyId": "12452",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Incredible Connection",
+ "direction": "Outbound",
+ "eventId": "4293a918-4f64-4f90-80dc-789f9b7c3cce",
+ "eventTime": "2023-05-23T20:17:13",
+ "eventType": "paymentRT",
+ "fromId": "African Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "2",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "African Bank Limited",
+ "toId": "6575712484335314",
+ "transactionId": "08443259-64b2-4a09-898f-8ff1c5f734e2",
+ "transactionType": "requesto_to_pay"
+}

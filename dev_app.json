@@ -1,0 +1,22 @@
+{
+    "EchoGeneralConfig": 1,
+    "Loglevel": "Debug",
+    "Debuglevel": 1,
+    "SeedFile": "seed.json",            # File containing seed data
+    "EchoSeed": 0,                      # do we want to echo the see data to the console, EchoConfig must == 1 for this to be considered
+    "Echojson": 0,                      # Echo output JSON to terminal
+    "Postkafka": 1,                     # Make call to Kafka
+    "Eventtype": "paymentNRT",           # paymentRT or NRT
+    "Json_from_file": 0,                # Read events from JSON Files
+    "Input_path": "json_rt_source1",    # Input directory where events/scenario's are stored                  
+    "Json_to_file": 0,                  # do we output created even and engineresponse to file system          
+    "Output_path": "json_rt_output",    # where to write output to
+    "Testsize": 5,                      # when we running in generate fake data, how many records to we wanna generate
+    "Sleep": 2000,                      # Milliseconds, aka 5000 => 5 seconds. this mean we will sleep between records between 0 and 5000  
+    "MinTransactionValue": 100,         # Whats the low end of the transaction value to generate
+    "MaxTransactionValue": 1000,        # Whats the upper limit of the transaction value to generate
+    "IntroBadEntity": 0,                # do we want to inject bad Entities randomly
+    "IntroBadPayer": 0,                 # do we want to inject bad Payers radomly
+    "IntroBadAgent": 0                  # do we want to inject bad Agents randomly
+}
+

@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "0",
+ "accountEntityId": "1",
+ "accountId": "Edgars",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "793932016.69",
+  "currency": "zar",
+  "value": "793932016.69"
+ },
+ "counterpartyEntityId": "9304",
+ "counterpartyId": "11814",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Edgars",
+ "direction": "Outbound",
+ "eventId": "4837bf1b-7db4-41fd-b122-328dc917cacd",
+ "eventTime": "2023-05-23T20:17:16",
+ "eventType": "paymentRT",
+ "fromId": "Thyme Bank",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "10",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Thyme Bank",
+ "toId": "343227013533691",
+ "transactionId": "b0df9488-0242-4c69-8d4d-8df138e60aa2",
+ "transactionType": "requesto_to_pay"
+}

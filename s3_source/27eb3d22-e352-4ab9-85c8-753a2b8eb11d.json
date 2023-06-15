@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "5",
+ "accountEntityId": "4",
+ "accountId": "PnA",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "819268260.93",
+  "currency": "zar",
+  "value": "819268260.93"
+ },
+ "counterpartyEntityId": "673",
+ "counterpartyId": "12528",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "PnA",
+ "direction": "Outbound",
+ "eventId": "27eb3d22-e352-4ab9-85c8-753a2b8eb11d",
+ "eventTime": "2023-05-23T20:17:22",
+ "eventType": "paymentRT",
+ "fromId": "Bank Zero",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "6",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Bank Zero",
+ "toId": "345685325466277",
+ "transactionId": "f70f64ba-5634-44e7-a2bb-ca25ca7e5e5e",
+ "transactionType": "requesto_to_pay"
+}

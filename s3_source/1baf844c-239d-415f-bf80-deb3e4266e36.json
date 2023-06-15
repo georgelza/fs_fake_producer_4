@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "1",
+ "accountEntityId": "0",
+ "accountId": "Discem",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "476014631.25",
+  "currency": "zar",
+  "value": "476014631.25"
+ },
+ "counterpartyEntityId": "151",
+ "counterpartyId": "19732",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Discem",
+ "direction": "Inbound",
+ "eventId": "1baf844c-239d-415f-bf80-deb3e4266e36",
+ "eventTime": "2023-05-23T20:18:24",
+ "eventType": "paymentRT",
+ "fromId": "African Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "8",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "African Bank Limited",
+ "toId": "2720995821785462",
+ "transactionId": "dca9ff69-dba2-4205-8098-2c811be30d28",
+ "transactionType": "account_push"
+}

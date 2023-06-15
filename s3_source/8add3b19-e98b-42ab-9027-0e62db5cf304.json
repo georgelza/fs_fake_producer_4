@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "4",
+ "accountEntityId": "0",
+ "accountId": "Nike",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "99654671.15",
+  "currency": "zar",
+  "value": "99654671.15"
+ },
+ "counterpartyEntityId": "8546",
+ "counterpartyId": "13442",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Nike",
+ "direction": "Inbound",
+ "eventId": "8add3b19-e98b-42ab-9027-0e62db5cf304",
+ "eventTime": "2023-05-23T20:18:21",
+ "eventType": "paymentRT",
+ "fromId": "African Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "2",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "African Bank Limited",
+ "toId": "2221000702462274",
+ "transactionId": "8dcd270c-fe49-4698-929d-901f2d0e1064",
+ "transactionType": "requesto_to_pay"
+}

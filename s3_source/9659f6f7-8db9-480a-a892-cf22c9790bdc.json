@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "3",
+ "accountEntityId": "2",
+ "accountId": "BUCO",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "384900274.38",
+  "currency": "zar",
+  "value": "384900274.38"
+ },
+ "counterpartyEntityId": "8322",
+ "counterpartyId": "16127",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "BUCO",
+ "direction": "Outbound",
+ "eventId": "9659f6f7-8db9-480a-a892-cf22c9790bdc",
+ "eventTime": "2023-05-23T20:17:09",
+ "eventType": "paymentRT",
+ "fromId": "Bank Zero",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "11",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Bank Zero",
+ "toId": "6599211317672834",
+ "transactionId": "d22447b9-e758-410d-97be-7e84af98c91c",
+ "transactionType": "account_push"
+}

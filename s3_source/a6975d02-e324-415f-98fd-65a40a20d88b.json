@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "3",
+ "accountEntityId": "5",
+ "accountId": "Incredible Connection",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "289972764.27",
+  "currency": "zar",
+  "value": "289972764.27"
+ },
+ "counterpartyEntityId": "4656",
+ "counterpartyId": "11630",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Incredible Connection",
+ "direction": "Outbound",
+ "eventId": "a6975d02-e324-415f-98fd-65a40a20d88b",
+ "eventTime": "2023-05-23T20:17:45",
+ "eventType": "paymentRT",
+ "fromId": "absa",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "12",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "absa",
+ "toId": "2221002607747237",
+ "transactionId": "e94d4f08-1012-413e-b22f-73a5d879b216",
+ "transactionType": "proxy_push"
+}

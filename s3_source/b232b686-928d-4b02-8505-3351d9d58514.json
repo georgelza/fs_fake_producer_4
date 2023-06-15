@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "4",
+ "accountEntityId": "5",
+ "accountId": "BuildIt",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "180774651.56",
+  "currency": "zar",
+  "value": "180774651.56"
+ },
+ "counterpartyEntityId": "2402",
+ "counterpartyId": "14641",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "BuildIt",
+ "direction": "Outbound",
+ "eventId": "b232b686-928d-4b02-8505-3351d9d58514",
+ "eventTime": "2023-05-23T20:17:31",
+ "eventType": "paymentRT",
+ "fromId": "Bank Zero",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "11",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Bank Zero",
+ "toId": "2720995704855626",
+ "transactionId": "f44ac11f-81d9-4a94-9ebc-976de062a1a8",
+ "transactionType": "proxy_push"
+}

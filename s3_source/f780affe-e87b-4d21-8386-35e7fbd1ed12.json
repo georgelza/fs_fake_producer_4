@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "3",
+ "accountEntityId": "0",
+ "accountId": "Pick n Pay",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "213252143.54",
+  "currency": "zar",
+  "value": "213252143.54"
+ },
+ "counterpartyEntityId": "6959",
+ "counterpartyId": "12219",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Pick n Pay",
+ "direction": "Inbound",
+ "eventId": "f780affe-e87b-4d21-8386-35e7fbd1ed12",
+ "eventTime": "2023-05-23T20:17:46",
+ "eventType": "paymentRT",
+ "fromId": "Grindrod Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "12",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Grindrod Bank Limited",
+ "toId": "6520906231563599",
+ "transactionId": "136b0048-022c-4033-9385-bf43932269c3",
+ "transactionType": "requesto_to_pay"
+}

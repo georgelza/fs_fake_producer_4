@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "2",
+ "accountEntityId": "1",
+ "accountId": "ACDC",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "497791551.46",
+  "currency": "zar",
+  "value": "497791551.46"
+ },
+ "counterpartyEntityId": "948",
+ "counterpartyId": "18044",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "ACDC",
+ "direction": "Inbound",
+ "eventId": "223ef946-fd37-41e5-b152-ed94b9deee99",
+ "eventTime": "2023-05-23T20:18:00",
+ "eventType": "paymentRT",
+ "fromId": "Discovery Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "6",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Discovery Bank Limited",
+ "toId": "378608296669592",
+ "transactionId": "5e3d04be-73b8-47d7-acb1-b1db0d5f560a",
+ "transactionType": "requesto_to_pay"
+}

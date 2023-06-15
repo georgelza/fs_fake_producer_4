@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "4",
+ "accountEntityId": "3",
+ "accountId": "Markhams",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "605743311.91",
+  "currency": "zar",
+  "value": "605743311.91"
+ },
+ "counterpartyEntityId": "6878",
+ "counterpartyId": "16361",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Markhams",
+ "direction": "Outbound",
+ "eventId": "b120f1c5-bbb7-4e46-b136-72b1846a0dd4",
+ "eventTime": "2023-05-23T20:18:04",
+ "eventType": "paymentRT",
+ "fromId": "Capitect Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "3",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Capitect Bank Limited",
+ "toId": "4942322846132109",
+ "transactionId": "b9390b69-e9a8-402e-a0f2-ecb88aeb3239",
+ "transactionType": "proxy_push"
+}

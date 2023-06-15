@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "5",
+ "accountEntityId": "4",
+ "accountId": "Builders",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "229612067.36",
+  "currency": "zar",
+  "value": "229612067.36"
+ },
+ "counterpartyEntityId": "442",
+ "counterpartyId": "16324",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Builders",
+ "direction": "Outbound",
+ "eventId": "50c71ad2-aff6-41e8-b9e8-b847079638a1",
+ "eventTime": "2023-05-23T20:18:29",
+ "eventType": "paymentRT",
+ "fromId": "Ithala",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "1",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Ithala",
+ "toId": "6550147154207721",
+ "transactionId": "7dc62e6d-1789-48d0-b10c-04145040194a",
+ "transactionType": "proxy_push"
+}

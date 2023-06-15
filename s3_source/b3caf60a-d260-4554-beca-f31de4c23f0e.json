@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "5",
+ "accountEntityId": "5",
+ "accountId": "BUCO",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "846232775.68",
+  "currency": "zar",
+  "value": "846232775.68"
+ },
+ "counterpartyEntityId": "9443",
+ "counterpartyId": "12047",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "BUCO",
+ "direction": "Inbound",
+ "eventId": "b3caf60a-d260-4554-beca-f31de4c23f0e",
+ "eventTime": "2023-05-23T20:17:42",
+ "eventType": "paymentRT",
+ "fromId": "nedbank",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "9",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "nedbank",
+ "toId": "346909082236497",
+ "transactionId": "10e73e20-45dc-46fb-a59a-e34372b89216",
+ "transactionType": "requesto_to_pay"
+}

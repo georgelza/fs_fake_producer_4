@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "3",
+ "accountEntityId": "1",
+ "accountId": "BuildIt",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "934566916.64",
+  "currency": "zar",
+  "value": "934566916.64"
+ },
+ "counterpartyEntityId": "9351",
+ "counterpartyId": "11919",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "BuildIt",
+ "direction": "Outbound",
+ "eventId": "58d960bc-aa94-4b64-b331-1f7a81e9bee9",
+ "eventTime": "2023-05-23T20:17:39",
+ "eventType": "paymentRT",
+ "fromId": "Bidvest Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "11",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Bidvest Bank Limited",
+ "toId": "4242951149799715",
+ "transactionId": "7b678d6d-cc88-44ba-af16-0a79f9d58ff8",
+ "transactionType": "account_push"
+}

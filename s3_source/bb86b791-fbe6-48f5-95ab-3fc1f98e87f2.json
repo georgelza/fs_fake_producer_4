@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "1",
+ "accountEntityId": "5",
+ "accountId": "Incredible Connection",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "667533348.49",
+  "currency": "zar",
+  "value": "667533348.49"
+ },
+ "counterpartyEntityId": "6182",
+ "counterpartyId": "13480",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Incredible Connection",
+ "direction": "Inbound",
+ "eventId": "bb86b791-fbe6-48f5-95ab-3fc1f98e87f2",
+ "eventTime": "2023-05-23T20:18:46",
+ "eventType": "paymentRT",
+ "fromId": "Bidvest Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "12",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Bidvest Bank Limited",
+ "toId": "348618281238037",
+ "transactionId": "0b669eeb-1187-4ac9-8afb-759fdf81d1ff",
+ "transactionType": "proxy_push"
+}

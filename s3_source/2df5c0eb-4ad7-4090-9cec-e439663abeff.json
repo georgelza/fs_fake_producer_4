@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "3",
+ "accountEntityId": "5",
+ "accountId": "ACDC",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "378127363.17",
+  "currency": "zar",
+  "value": "378127363.17"
+ },
+ "counterpartyEntityId": "1642",
+ "counterpartyId": "13216",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "ACDC",
+ "direction": "Inbound",
+ "eventId": "2df5c0eb-4ad7-4090-9cec-e439663abeff",
+ "eventTime": "2023-05-23T20:17:18",
+ "eventType": "paymentRT",
+ "fromId": "Bidvest Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "5",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Bidvest Bank Limited",
+ "toId": "4771006460061830",
+ "transactionId": "2e0fe999-2b3b-458f-b370-59d2523671d6",
+ "transactionType": "account_push"
+}

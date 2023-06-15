@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "5",
+ "accountEntityId": "2",
+ "accountId": "Quicksilver",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "55069480.94",
+  "currency": "zar",
+  "value": "55069480.94"
+ },
+ "counterpartyEntityId": "5907",
+ "counterpartyId": "15282",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Quicksilver",
+ "direction": "Inbound",
+ "eventId": "0a44331f-06d1-4527-ac4b-b9a3018ad7c4",
+ "eventTime": "2023-05-23T20:17:54",
+ "eventType": "paymentRT",
+ "fromId": "standard",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "5",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "standard",
+ "toId": "6545233030568194",
+ "transactionId": "16ed3093-9583-41ec-b764-bebfa1916f26",
+ "transactionType": "requesto_to_pay"
+}

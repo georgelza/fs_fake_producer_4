@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "4",
+ "accountEntityId": "3",
+ "accountId": "Checkers",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "861228638.16",
+  "currency": "zar",
+  "value": "861228638.16"
+ },
+ "counterpartyEntityId": "4310",
+ "counterpartyId": "14805",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Checkers",
+ "direction": "Inbound",
+ "eventId": "d007c6a8-7f49-4154-a7bc-0b0775070053",
+ "eventTime": "2023-05-23T20:17:23",
+ "eventType": "paymentRT",
+ "fromId": "absa",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "7",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "absa",
+ "toId": "4398324800618009",
+ "transactionId": "f5fc6648-f693-4a45-93be-9201a6125d3d",
+ "transactionType": "proxy_push"
+}

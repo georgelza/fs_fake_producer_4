@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "1",
+ "accountEntityId": "1",
+ "accountId": "Starbucks",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "121125457.17",
+  "currency": "zar",
+  "value": "121125457.17"
+ },
+ "counterpartyEntityId": "2427",
+ "counterpartyId": "12197",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Starbucks",
+ "direction": "Outbound",
+ "eventId": "eb81cbbf-978f-4e7e-bf01-78f010440bc9",
+ "eventTime": "2023-05-23T20:18:42",
+ "eventType": "paymentRT",
+ "fromId": "Capitect Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "3",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Capitect Bank Limited",
+ "toId": "6546766161434677",
+ "transactionId": "02157a02-66c5-4471-ad5b-f02d53819892",
+ "transactionType": "account_push"
+}

@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "3",
+ "accountEntityId": "1",
+ "accountId": "BuildIt",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "91322829.20",
+  "currency": "zar",
+  "value": "91322829.20"
+ },
+ "counterpartyEntityId": "7388",
+ "counterpartyId": "11614",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "BuildIt",
+ "direction": "Outbound",
+ "eventId": "0c6d4510-ffd6-4f9e-917e-3dd9e7138cb0",
+ "eventTime": "2023-05-23T20:18:30",
+ "eventType": "paymentRT",
+ "fromId": "absa",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "9",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "absa",
+ "toId": "6580887215725101",
+ "transactionId": "a730c2a4-f115-469f-aa7e-d04ac08dc445",
+ "transactionType": "requesto_to_pay"
+}

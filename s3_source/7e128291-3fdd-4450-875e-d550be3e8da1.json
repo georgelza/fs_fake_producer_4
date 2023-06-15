@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "2",
+ "accountEntityId": "0",
+ "accountId": "Edgars",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "163516796.34",
+  "currency": "zar",
+  "value": "163516796.34"
+ },
+ "counterpartyEntityId": "1910",
+ "counterpartyId": "17580",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Edgars",
+ "direction": "Outbound",
+ "eventId": "7e128291-3fdd-4450-875e-d550be3e8da1",
+ "eventTime": "2023-05-23T20:18:15",
+ "eventType": "paymentRT",
+ "fromId": "standard",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "11",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "standard",
+ "toId": "4012183267225614",
+ "transactionId": "44348755-a997-4445-bdf0-606ab8c3cca1",
+ "transactionType": "proxy_push"
+}

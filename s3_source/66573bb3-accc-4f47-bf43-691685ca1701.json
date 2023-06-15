@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "0",
+ "accountEntityId": "4",
+ "accountId": "Samsung",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "441027635.84",
+  "currency": "zar",
+  "value": "441027635.84"
+ },
+ "counterpartyEntityId": "5438",
+ "counterpartyId": "13774",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Samsung",
+ "direction": "Outbound",
+ "eventId": "66573bb3-accc-4f47-bf43-691685ca1701",
+ "eventTime": "2023-05-23T20:17:22",
+ "eventType": "paymentRT",
+ "fromId": "Bidvest Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "12",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Bidvest Bank Limited",
+ "toId": "4065139971696189",
+ "transactionId": "3870cb07-4f71-41c5-9be2-f53fae6aa9e3",
+ "transactionType": "account_push"
+}

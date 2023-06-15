@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "5",
+ "accountEntityId": "2",
+ "accountId": "Clicks",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "265035513.74",
+  "currency": "zar",
+  "value": "265035513.74"
+ },
+ "counterpartyEntityId": "7874",
+ "counterpartyId": "12687",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Clicks",
+ "direction": "Outbound",
+ "eventId": "d6d33092-ea24-451f-b3ac-3fb63f591e9c",
+ "eventTime": "2023-05-23T20:18:46",
+ "eventType": "paymentRT",
+ "fromId": "Grindrod Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "9",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Grindrod Bank Limited",
+ "toId": "2720994858485194",
+ "transactionId": "34b056fe-8405-45ae-9259-f65a8e2743b6",
+ "transactionType": "account_push"
+}

@@ -1,0 +1,31 @@
+{
+ "accountAgentId": "4",
+ "accountEntityId": "3",
+ "accountId": "Billabong",
+ "amount": {
+  "basecurrency": "zar",
+  "basevalu": "345125921.73",
+  "currency": "zar",
+  "value": "345125921.73"
+ },
+ "counterpartyEntityId": "8083",
+ "counterpartyId": "10505",
+ "customerEntityId": "customerEntityId_1",
+ "customerId": "Billabong",
+ "direction": "Outbound",
+ "eventId": "cf31c7ce-0f22-435c-a0cc-b8c513f6497e",
+ "eventTime": "2023-05-23T20:17:41",
+ "eventType": "paymentRT",
+ "fromId": "Sasfin Bank Limited",
+ "msgStatus": "New",
+ "msgType": "2100",
+ "numberOfTransactions": 1,
+ "paymentFrequency": "5",
+ "paymentMethod": "paymentMethod_1",
+ "schemaVersion": 1,
+ "settlementDate": "2023-05-23",
+ "tenantId": "Sasfin Bank Limited",
+ "toId": "2221003160279186",
+ "transactionId": "504262a3-5653-4741-af9e-0f797765a04b",
+ "transactionType": "requesto_to_pay"
+}
